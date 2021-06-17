@@ -1,0 +1,25 @@
+.container{
+
+  display: flex;
+  overflow: none;
+  
+  
+
+  
+ 
+  .left{
+      flex: 1;
+    background-color: lightgreen;
+    
+
+  }
+
+  .right{
+      flex: 1;
+      background-color: lightgreen;
+      margin-top: 10px;
+
+      
+
+  }
+}
